@@ -1,2 +1,3 @@
 ##test
-print()
+test=True
+return test
